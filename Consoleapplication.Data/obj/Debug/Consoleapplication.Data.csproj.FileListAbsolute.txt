@@ -1,0 +1,10 @@
+D:\exercices\C_sharp_db\Advanced\Team_Poject_1\Project\Console_Application\Consoleapplication.Data\bin\Debug\Consoleapplication.Data.dll.config
+D:\exercices\C_sharp_db\Advanced\Team_Poject_1\Project\Console_Application\Consoleapplication.Data\bin\Debug\Consoleapplication.Data.dll
+D:\exercices\C_sharp_db\Advanced\Team_Poject_1\Project\Console_Application\Consoleapplication.Data\bin\Debug\Consoleapplication.Data.pdb
+D:\exercices\C_sharp_db\Advanced\Team_Poject_1\Project\Console_Application\Consoleapplication.Data\bin\Debug\EntityFramework.dll
+D:\exercices\C_sharp_db\Advanced\Team_Poject_1\Project\Console_Application\Consoleapplication.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\exercices\C_sharp_db\Advanced\Team_Poject_1\Project\Console_Application\Consoleapplication.Data\bin\Debug\EntityFramework.xml
+D:\exercices\C_sharp_db\Advanced\Team_Poject_1\Project\Console_Application\Consoleapplication.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\exercices\C_sharp_db\Advanced\Team_Poject_1\Project\Console_Application\Consoleapplication.Data\obj\Debug\Consoleapplication.Data.csprojResolveAssemblyReference.cache
+D:\exercices\C_sharp_db\Advanced\Team_Poject_1\Project\Console_Application\Consoleapplication.Data\obj\Debug\Consoleapplication.Data.dll
+D:\exercices\C_sharp_db\Advanced\Team_Poject_1\Project\Console_Application\Consoleapplication.Data\obj\Debug\Consoleapplication.Data.pdb
